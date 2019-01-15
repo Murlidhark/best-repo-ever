@@ -1,5 +1,3 @@
 # best-repo-ever
-Just for testing adding this line
-Some more text
+This is comment added for new-branch-1
 
-Thank you - 01/15
